@@ -6,6 +6,14 @@
 
 This project recreates the landing page of Netflix, focusing on a clean and responsive design. While functionality is not the primary goal, the project showcases a strong understanding of front-end layout, visual design principles, and responsive web development techniques. Built without a specific tech stack, the project emphasizes the core structure and visual elements that make the Netflix landing page recognizable and engaging. It demonstrates attention to detail in replicating the look and feel of the original, providing a valuable learning experience in front-end development and design implementation.
 
+
+## 🛠️ Tech Stack
+
+-  HTML
+-  CSS
+-  JavaScript
+
+
 ## 📁 Project Structure
 
 ```
