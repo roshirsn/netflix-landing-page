@@ -73,14 +73,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is open source and available under the [MIT License](LICENSE) (replace with the actual license if applicable).
 
-📬 **Contact**
-
-If you have any questions or feedback, feel free to reach out:
-
-*   Your Name: [Your Name]
-*   Your Email: [Your Email]
-*   GitHub Profile: [Your GitHub Profile]
-
 💖 **Thanks**
 
 Thank you for checking out this Netflix clone landing page project! I hope it's helpful and inspiring.
